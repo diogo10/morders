@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [26/Jul/2017:10:28:36 +0100] "OPTIONS /morders/rest/v1/order/closeTable HTTP/1.1" 200 526 http-bio-8080-exec-5 962
+0:0:0:0:0:0:0:1 - - [26/Jul/2017:10:28:40 +0100] "POST /morders/rest/v1/order/closeTable HTTP/1.1" 200 25 http-bio-8080-exec-6 3411
+127.0.0.1 - - [26/Jul/2017:10:29:52 +0100] "POST /morders/rest/v1/order/mobile/orderStatus HTTP/1.1" 200 28 http-bio-8080-exec-8 915
+127.0.0.1 - - [26/Jul/2017:10:34:34 +0100] "POST /morders/rest/v1/order/mobile/orderStatus HTTP/1.1" 200 28 http-bio-8080-exec-10 1528
+127.0.0.1 - - [26/Jul/2017:10:37:00 +0100] "POST /morders/rest/v1/order/mobile/orderStatus HTTP/1.1" 200 28 http-bio-8080-exec-6 1011
+127.0.0.1 - - [26/Jul/2017:10:37:48 +0100] "POST /morders/rest/v1/order/mobile/orderStatus HTTP/1.1" 200 28 http-bio-8080-exec-1 1257
+127.0.0.1 - - [26/Jul/2017:10:38:59 +0100] "POST /morders/rest/v1/order/mobile/orderStatus HTTP/1.1" 200 28 http-bio-8080-exec-4 755
+127.0.0.1 - - [26/Jul/2017:10:39:05 +0100] "POST /morders/rest/v1/order/mobile/orderStatus HTTP/1.1" 200 28 http-bio-8080-exec-4 836
+127.0.0.1 - - [26/Jul/2017:10:39:33 +0100] "POST /morders/rest/v1/order/mobile/orderStatus HTTP/1.1" 200 28 http-bio-8080-exec-4 352
+127.0.0.1 - - [26/Jul/2017:10:40:45 +0100] "GET /morders/rest/v1/order/tables HTTP/1.1" 200 704 http-bio-8080-exec-5 1171
+127.0.0.1 - - [26/Jul/2017:10:40:58 +0100] "POST /morders/rest/v1/order/new HTTP/1.1" 200 60 http-bio-8080-exec-5 1223
